@@ -17,6 +17,6 @@ function performOperation(secondInteger, secondDecimal, secondString) {
 
 performOperation(secondInteger, secondDecimal, secondString);
 
-//Output in console ->  16
+//Output in console ->  16 
 //                      8.32
 //                      HackerRank is the best place to learn and practice coding!
