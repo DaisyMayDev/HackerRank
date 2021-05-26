@@ -12,11 +12,6 @@ function getPerimeter(length, width) {
   return length * 2 + width * 2;
 }
 
-console.log(
-  `The area of the rectangle is ${getArea(
-    length,
-    width
-  )} and the perimeter is ${getPerimeter(length, width)}`
-);
+console.log(`The area of the rectangle is ${getArea(length, width)} and the perimeter is ${getPerimeter(length, width)}`);
 
 //Output to console ->  The area of the rectangle is 36 and the perimeter is 26
