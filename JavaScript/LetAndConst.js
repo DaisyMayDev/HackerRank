@@ -1,4 +1,4 @@
-// Let and Const:
+// Let and Const Challenge:
 // Practice using Let and Const variables
 
 function main() {
