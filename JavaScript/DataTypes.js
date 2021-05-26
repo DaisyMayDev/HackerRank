@@ -14,7 +14,7 @@ function performOperation(secondInteger, secondDecimal, secondString) {
   console.log(firstDecimal + Number(secondDecimal));
   console.log(firstString + secondString);
 }
-
+ 
 performOperation(secondInteger, secondDecimal, secondString);
 
 //Output in console ->  16 
