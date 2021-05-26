@@ -1,4 +1,4 @@
-// Arithmatic Operators:
+// Arithmatic Operators Challenge:
 // Calculate the area and perimeter of a rectangle
 
 const length = 4;
